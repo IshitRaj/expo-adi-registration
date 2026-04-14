@@ -1,3 +1,4 @@
+[![npm version](https://img.shields.io/npm/v/expo-adi-registration)](https://www.npmjs.com/package/expo-adi-registration)
 # expo-adi-registration
 
 An Expo config plugin that copies `adi-registration.properties` into the native Android assets directory for Google Play Console package ownership verification.
