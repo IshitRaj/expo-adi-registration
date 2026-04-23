@@ -53,6 +53,11 @@ export default {
 
 ---
 
+> **Using `app.json` instead of `app.config.js`?**
+> Both options above work exactly the same in `app.json`. Just use the same plugin config inside your existing `"expo"` key — the syntax is identical, just written as JSON instead of JS.
+
+---
+
 ## Build
 
 After adding the plugin, build a release APK using EAS:
